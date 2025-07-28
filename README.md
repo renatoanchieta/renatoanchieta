@@ -1,4 +1,4 @@
-🧠 ### Renato Anchieta
+### 🧠 Renato Anchieta
 
 **`Estudante de Frontend`**
 
