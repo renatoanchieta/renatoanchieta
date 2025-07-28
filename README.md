@@ -1,4 +1,5 @@
 #🧠 Renato Anchieta
+
 **`Estudante de Frontend`**
 
 Me chamo Renato Anchieta, sou Sênior Web Designer / Designer Gráfico com mais de 15 anos de experiência. Sou especialista em criar páginas dinâmicas, responsivas e de alto desempenho. Trabalho também com inbound marketing, e-mail marketing, marketing de mídia social e gerenciamento de tráfego.
@@ -6,7 +7,7 @@ Durante esses anos, já contribuí para o sucesso de diversas empresas e empreen
 Atualmente busco vagas de Desenvolvedor Junior ou estágio Frontend.
 
 <p align="left">
-    <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://instagram.com/renatoanchieta)">
+    <a href="[https://instagram.com/renatoanchieta]">
         <img 
             alt="instagram channel" 
             title="Me segue no Insta" 
