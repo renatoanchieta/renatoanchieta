@@ -7,14 +7,13 @@ Durante esses anos, já contribuí para o sucesso de diversas empresas e empreen
 Atualmente busco vagas de Desenvolvedor Junior ou estágio Frontend.
 
 <p align="left">
-    <a href="[https://instagram.com/renatoanchieta]">
+   <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1]">
         <img 
-            alt="instagram channel" 
-            title="Me segue no Insta" 
-            src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram&page=1&position=3&origin=search&related_id=174855"
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    
 </p>
 
 ---
