@@ -11,7 +11,7 @@ Atualmente busco vagas de Desenvolvedor Junior ou estágio Frontend.
         <img 
             alt="instagram" 
             title="Me siga no insta!" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Me-siga-no-insta!&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Mesiganoinsta!&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
 </p>
