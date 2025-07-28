@@ -6,15 +6,12 @@ Me chamo Renato Anchieta, sou Sênior Web Designer / Designer Gráfico com mais 
 Durante esses anos, já contribuí para o sucesso de diversas empresas e empreendedores. Atualmente busco trabalhar com um novo time dedicado e competente.
 Atualmente busco vagas de Desenvolvedor Junior ou estágio Frontend.
 
-<p align="left">
-   <a href="[instagram.com/renatoanchieta]">
-        <img 
-            alt="instagram" 
-            title="Me siga no insta!" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Instagram!&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-</p>
+<div> 
+<a href="https://www.instagram.com/renatoanchieta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:renatovalerio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renatoanchieta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>
 
 ---
 
@@ -75,6 +72,7 @@ Atualmente busco vagas de Desenvolvedor Junior ou estágio Frontend.
 
 ### 📊 Estatísticas
 
+<div>
 <p>
   <img 
     align="left" 
@@ -91,14 +89,9 @@ Atualmente busco vagas de Desenvolvedor Junior ou estágio Frontend.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoanchieta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </p>
-
-### Contatos:
-
-<div> 
-<a href="https://www.instagram.com/renatoanchieta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:renatovalerio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/renatoanchieta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
+
+
+
 
 
