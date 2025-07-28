@@ -89,6 +89,16 @@ Atualmente busco vagas de Desenvolvedor Junior ou estágio Frontend.
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoanchieta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+/>
 </p>
+
+### Contatos:
+
+<div> 
+<a href="https://www.instagram.com/renatoanchieta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:renatovalerio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renatoanchieta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>
+
+
